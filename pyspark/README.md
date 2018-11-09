@@ -1,4 +1,7 @@
 ## Pyspark Projects and descriptions
+
+## Author: Melik Masarifoglu
+
 **file name: pyspark_datamanip_logistic**<br/>  
 The file contains data manipulation techniques and how to apply logistic regression model<br/>  
 * Join<br/>
