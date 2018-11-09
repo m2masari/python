@@ -1,4 +1,4 @@
-## Spark projects in pyspark
+## Pyspark Projects and project descriptions
 **file name: pypsar_manip_loj**<br/>  
 The file contains data manipulation techniques and applying logistic regression model<br/>  
 1-Join<br/>
