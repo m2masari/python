@@ -1,6 +1,6 @@
 ## Pyspark Projects and descriptions
 **file name: pyspark_datamanip_logistic**<br/>  
-The file contains data manipulation techniques and applying logistic regression model<br/>  
+The file contains data manipulation techniques and how to apply logistic regression model<br/>  
 * Join<br/>
 * Case when<br/> 
 * Distinct<br/>
