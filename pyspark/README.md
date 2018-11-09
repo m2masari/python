@@ -25,3 +25,11 @@ This file talks about how to manage missing values in pyspark and try to answer 
 * Replace null values with string value  (if the column is string)<br/>
 * How to replace null values either with mean or median<br/>
 * What impacts can null values have on calculating average and count<br/> 
+
+**file name: machine_learning_technique**<br/>
+* Model Lojistic regression on train data set 
+* Corelation graph of predictor variables
+* Roc curve and area under the roc curve
+* Test the model on the test data set 
+* Report prediction, sensitivity, positive probability, negative probability
+* Precision, accuracy, sensitivity
