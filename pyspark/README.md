@@ -11,7 +11,7 @@ The file contains data manipulation techniques and applying logistic regression 
 8-Rank<br/> 
 9-An example of Machine Learning methods logistic regression<br/><br/> 
 
-**file name: pypspark_null_values**<br/>
+**file name: pyspark_null_values**<br/>
 This file talks about how to manage missing values in pyspark and try to answer below questions: <br/> 
   
 --check each rows and birng the ones without any null value<br/>
