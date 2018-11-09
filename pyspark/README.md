@@ -6,16 +6,17 @@ The file contains data manipulation techniques and applying logistic regression 
 3-Distinct<br/>
 4-Rename columns<br/>
 5-How to find min,max,avg,sum,count,standard deviation<br/> 
+6-Order by-sort
 6-Group by sum,count,mean<br/> 
 7-Filter<br/> 
 8-Rank<br/> 
-9-An example of Machine Learning methods logistic regression<br/><br/> 
+9-An example of Machine Learning methods of logistic regression (how to create feutures labels,and ROC value)<br/><br/> 
 
 **file name: pyspark_null_values**<br/>
 This file talks about how to manage missing values in pyspark and try to answer below questions: <br/> 
   
---check each rows and birng the ones without any null value<br/>
---Bring the rows that at least n null values.<br/>
+--check each row and filter the ones without any null value<br/>
+--Filter the rows that has at least n null values.<br/>
 --Filter the null values/non-values in a specific column<br/> 
 --Replace null values with numeric value (if the column is numeric)<br/>
 --Replace null values with string value  (if the column is string)<br/>
