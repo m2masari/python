@@ -33,3 +33,13 @@ This file talks about how to manage missing values in pyspark and try to answer 
 * Test the model on the test data set 
 * Report prediction, sensitivity, positive probability, negative probability
 * Precision, accuracy, sensitivity
+
+**file name: RDD_word_count**<br/>
+* Read the text in RDD format
+* Remove all punctuation marks
+* Change all capital letters to lower case letters
+* Split the text
+* Remove unwanted words
+* Map the text 
+* ReduceByKey
+* Sort the words and list the most occured top 5 word 
